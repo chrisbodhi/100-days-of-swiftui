@@ -2,7 +2,7 @@
 
 SwiftUI projects from [Paul Hudson's 100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course. Worked through a solid chunk of the curriculum to build familiarity with the framework before moving on to other projects.
 
-## Projects
+## Course Projects
 
 | Project | What it does | Key concepts |
 |---|---|---|
@@ -16,6 +16,11 @@ SwiftUI projects from [Paul Hudson's 100 Days of SwiftUI](https://www.hackingwit
 | **Edutainment** | Configurable multiplication quiz with a timer | `Timer.publish`, game flow, focus management |
 | **iExpense** | Expense tracker with Personal/Business categories | `@StateObject`, `Codable`, sheet presentation |
 | **Moonshot** | Apollo mission explorer with astronaut bios | `NavigationSplitView`, JSON decoding, multi-column layout |
+
+## My Projects
+
+| Project | What it does | Key concepts |
+|---|---|---|
 | **colorConv** | Converts colors between HEX, RGB, and HSL | String parsing, UIKit color bridging |
 | **SinceEpoch** | Apple Watch face showing Unix epoch time | watchOS, `Timer.publish`, live updating |
 | **FlagXR** | 3D flag viewer for Vision Pro | RealityKit, immersive spaces, `Model3D` |
